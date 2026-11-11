@@ -1,9 +1,9 @@
 [project]
-name = "djangoproject"
+name = "django-product-catalog"
 version = "0.1.0"
-description = ""
+description = "Django product catalog with user accounts, blog and Redis caching"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "VTokyoGhoulV"}
 ]
 requires-python = "^3.14"
 dependencies = [
